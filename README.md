@@ -8,7 +8,7 @@
 
 ### A discord bot that can play movies and tv shows from jellyfin in discord vc.
 
-Progress is slow right now due to my business with school, The code I just uploaded may not work just yet, but soon will be functional.
+Progress is slow right now due to school, The code I just uploaded may not work just yet, but soon will be functional.
 
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/cat.svg)
 <h3 align="center">
